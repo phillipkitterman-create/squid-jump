@@ -34,6 +34,14 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "blocksprj",
+    "theme": {
+        "skin": "zune",
+        "background-color": "#123456",
+        "button-stroke": "#654321",
+        "text-color": "#321456",
+        "button-fill": "#deadea",
+        "dpad-fill": "#abcdef"
+    }
 
 }
